@@ -1,0 +1,9 @@
+### REST API Example
+POST http://127.0.0.1:8000/rest-api/v1/example
+Accept: application/json
+Content-Type: application/json
+
+{
+  "field1": 1,
+  "field2": "qwerty"
+}
